@@ -1,0 +1,16 @@
+a virus that disguises itself as a joke is spreading rapidly across the net
+antivirus firms are issuing highlevel warnings about the new version of the bagle email program that seems to be catching a lot of people out
+the windows virus grabs email addresses from microsoft outlook and uses its own mail sending software to spread itself to new victims
+when it infects a machine the bagle variant turns off security measures that usually protect pcs
+the new variant is called bagleat baglebb and bagleau and the attachment bearing the virus code is labelled as either joke or price
+the body of the virus usually contains nothing but a smiley or emoticon
+the virus can strike computers running windows 95 98 me nt 2000 and xp
+users will be infected if they open the attachment that travels with the email
+as well as plundering microsoft outlook for email addresses to send itself to bagleat also tries to turn off the firewall and security centre services on windows xp machines
+bbc news online has received five warnings about the virus from security companies
+finnish company fsecure gave the virus its second highest threat level
+weve had several reports all over the world said mikko hypponen director of antivirus research for fsecure
+security firm network box said that it stopped more than 30000 copies an hour of the virus as the outbreak reached a peak
+black spider said it had stopped more than 1 million copies of bagleat since the outbreak began at 0630 bst 0530 gmt
+antivirus firms urged users to be wary of unexpected email messages bearing attachments and to update their software to ensure they are protected against the latest threats
+
