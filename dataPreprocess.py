@@ -1,6 +1,10 @@
 # Author: Shway Wang
+import math
 import numpy as np
-import matplotlib as plt
+import matplotlib.pyplot as plt
+from sklearn.feature_extraction.text import CountVectorizer
+
+
 
 def main():
 	print('this is main')
