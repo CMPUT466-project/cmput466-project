@@ -1,0 +1,21 @@
+the proportion of surfers using microsofts internet explorer ie has dropped to below 90 say web analysts
+net traffic monitor onestatcom has reported that the opensource browser firefox 10 released on 9 november seems to be drawing users away from ie
+while ies market share has dropped 5 since may to 889 mozilla browsers  including firefox  have grown by 5
+firefox is made by the mozilla foundation which was set up by former browser maker netscape in 1998
+although there have been other preview versions of firefox version 10 was the first complete official program
+it seems that people are switching from microsofts internet explorer to mozillas new firefox browser said niels brinkman cofounder of amsterdambased onestatcom
+mozilla browsers  including firefox 10  now have 74 of the market share the figures suggest
+mozilla said that more than five million have downloaded the free software since its official release
+supporters of the opensource software in the us managed to raise 250000 £133000 to advertise the release of firefox 10 in the new york times and support the mozilla foundation
+there was a flurry of downloads on its first day of release
+the figures echo similar research from net analyst websidestory which suggested that ie had 929 of users in october compared to 955 in june
+microsoft ie has dominated the browser market for some time after taking the crown from netscape and its share of users has always stayed at around the 95 mark
+firefox is attractive to many because it is opensource
+that means people are free to adapt the softwares core code to create other innovative features like addons or extensions to the program
+fewer security holes have also been discovered so far in firefox than in ie
+paul randle microsoft windows client product manager responded to the figures we certainly respect that some customers will choose alternative browsers and that choosing a browser is about more than a handful of features
+microsoft continues to make significant investments in ie including service pack 2 with advanced security technologies and continues to encourage a vibrant ecosystem of third party addons for internet explorer firefox wants to capture 10 of the market by the end of 2005
+other browser software like opera and apples safari are also challenging microsofts grip on the browser market
+opera is set to release its version 760 by the end of the year
+onestatcom compiled the statistical measurements from two million net users in 100 countries
+
