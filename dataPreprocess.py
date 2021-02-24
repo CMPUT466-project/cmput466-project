@@ -45,7 +45,7 @@ def preprocess_all():
 				# write the result to the corresponding folders:
 				with open(PROCESSED_PATH + 'proced_News_Articles/%s/%s.txt' % (folder, i), 'w',encoding="utf8") as f:
 					for sentence in temp_lines:
-					#for removing some common stopwords like "is","a","for" et
+					#for removing some common stopwords like "is","a","for" etc
 						text_tokens = word_tokenize(sentence)
 						list_wt_sw = [word for word in text_tokens if not word in stopwords.words()]
 						sentence=(" ").join(list_wt_sw)
