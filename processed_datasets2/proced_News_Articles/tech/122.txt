@@ -1,0 +1,28 @@
+cash machine networks could soon susceptible computer viruses security firm warned
+warning issued many banks starting use windows operating system machines
+already four incidents windows viruses disrupted networks cash machines running microsoft operating system
+banking experts say danger overplayed risks infection disruption small
+many years venerable ibm operating system known os2 staple software used power many 14m cash machines operation around world
+ibm support os2 2006 forcing banks look alternatives
+pressures making banks turn windows said dominic hirsch managing director financial analysis firm retail banking research
+said many cash machines upgraded make full use new europay mastercard visa credit cards use computer chips instead magnetic stripes store data
+us laws demand disabled people get equal access information force banks make cash machines versatile able present information different ways
+todd thiemann spokesman antivirus firm trend micro said move windows cash machines without risks
+mr thiemann said research towergroup showed 70 new cash machines installed windows based
+already said four incidents cash machines unavailable hours due viruses affecting network bank owns
+january 2003 slammer worm knocked 13000 cash machines bank america many operated canadian imperial bank commerce
+august year cash machines two unnamed banks put action hours following infection welchia worm
+incidents like happen said mr thiemann banks start using windows cash machines change networking technology used link devices back office computers
+often means cash machines computers bank share data network
+could mean cash machines get caught viruses going around common transmission system said
+banks need consider protection part investment maintain security network mr thiemann told bbc news online
+mr hirsch retail banking research said number cash machines actually risk low upgraded every year
+currently said cash machine lifetime 10 years means 10 atms get swapped newer model every year
+windows cash machines around several years said
+banks simply upgrade part usual replacement cycle theory bigger threat windows os2 said think banks hugely concerned moment pretty unusual hear virus problems atms said
+many different security systems builtin cash machines meant chance virus could cause start spitting cash spontaneously said
+banks likely worried internal networks overwhelmed worms viruses customers able get cash added
+spokesman association payment clearing services apacs represents uks payments industry said risk viruses minimal
+theres concern theres going type virus hitting uk networks said
+risks infection small data networks connect uk cash machines together operators atms much smaller tightlyknit community us viruses struck
+

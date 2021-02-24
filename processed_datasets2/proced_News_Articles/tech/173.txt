@@ -1,0 +1,40 @@
+us poised push japan top supercomputing chart ibms prototype blue genel machine
+assembled lawrence livermore national laboratory us department energy doe lab
+doe test results show blue genel managed speeds 7072 teraflops
+current top machine japans nec earth simulator clocks 3586
+due next week top 500 list officially charts fastest computers world
+announced every six months worked using officially recognised mathematical speed test called linpack measures calculations second
+speeds likely make fastest computer system planet yet chip technology powering machine kind found familiar devices games consoles
+us secretary energy spencer abraham confirmed machine reached breakneck speed according linpack benchmark
+official list published however blue genels position confirmed expected new entries
+test results raise bar supercomputing enormously signal remarkable achievement
+surpassing 40 trillion calculations second teraflop mark considered landmark time
+ibm blue genel prototype 5th speed full version due completed livermore labs 2005
+peak theoretical performance expected 360 teraflops fit 64 full racks
+cut amount heat generated massive power big problem supercomputers
+final machine help scientists work safety security reliability requirements uss nuclear weapons stockpile without need underground nuclear testing
+earth simulator held top spot since june 2002
+dedicated climate modelling simulating seismic activity
+september ibm said another blue genel machine clocked 3601 teraflops marginally surpassing earth simulators performance
+achieved internal testing ibms production facility rochester minnesota though official record
+another giant enter fray silicon graphics columbia supercomputer based nasas ames research center california
+would used model flight missions climate research aerospace engineering
+linuxbased machine reported reached top speed 427 teraflops october
+supercomputers hugely important working complex problems across science society
+massive simulation processing power means improve accuracy weather forecasts help design better cars improve disease diagnosis
+ibms senior vice president technology manufacturing nick donofrio believes 2006 blue gene capable petaflop computing
+means would capable 1000 trillion operations second
+get computer large petaflop start think simulations might complement physical world mr donofrio recently told bbc news website
+start proactive interactive innovative area mr donofrio sees supercomputing blue gene machines particular crucial health
+believes machines help scientists understand greatest challenges 21st century protein folding
+health important problems mapping human genome protein structures
+great believer simulation
+gives another tool said
+structures proteins understood fully drugs tailormade fight diseases effectively
+compared current fastest supercomputers blue gene designed consume 15th power 10 times compact
+since first supercomputer cray1 installed alamos national laboratory 1976 computational speed leaped 500000 times
+cray1 capable 80 megaflops 80 million operations second
+blue genel machine completed next year five million times faster
+started 1993 top 500 list decided group computer science academics around world
+presented international supercomputer conference pittsburgh
+

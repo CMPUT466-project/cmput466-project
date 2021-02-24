@@ -1,0 +1,21 @@
+amount spam circulating online could undergo massive increase say experts
+antispam group spamhaus warning novel virus hides origins junk mail
+program makes spam look like sent legitimate mail servers making hard spot filter
+spamhaus said problem went unchecked real email messages could get drowned sheer amount junk sent
+many spammers recruited home pcs act anonymous email relays attempt hide origins junk mail
+pcs recruited using viruses worms compromise machines via known vulnerabilities tricking people opening attachment infected malicious program
+compromised machines start pump junk mail behalf spammers
+spamhaus helps block junk messages machines collecting circulating blacklists net addresses known harbour infected machines
+novel worm spotted recently spamhaus routes junk via mail servers net service firm infected machines used get online first place
+way junk mail gets net address looks legitimate
+blocking mail net firms catch spam impractical spamhaus worried technique give junk mailers ability spam little fear spotted stopped
+steve linford director spamhaus predicted lot spammers exploit technique could trigger failure nets email sending infrastructure
+david stanley uk managing director filtering firm ciphertrust said new technique next logical step spammers
+adding armoury said
+amount spam circulation still growing said mr stanley think appearance trick would mean email meltdown
+kevin hogan senior manager symantec security response said warnings premature
+something like mean email email would stopped twothree years ago said mr hogan
+technique routing mail via mail servers net service firms might cause problems use blacklists block lists mean techniques stopping spam lost efficacy
+mr hogan said 90 junk mail filtered symantec subsidiary brightmail spotted using techniques rely looking net addresses
+instance said mr hogan filtering email messages contain web link stop 75 spam
+
