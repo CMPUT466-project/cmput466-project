@@ -1,0 +1,23 @@
+system make easier create website addresses using alphabets like cyrillic could open back scammers trade body warned
+internationalised domain names system work progress years recently approved internet electronic task force
+uk internet forum ukif concerned system let scammers create fake sites easily
+problem lies computer codes used represent language
+registering names look like legitimate companies lead users fake sites designed steal passwords credit card details could become whole lot easier determined scammers says stephen dyer director ukif
+domain names real language addresses websites rather internet protocol address series numbers
+used people easily navigate web
+socalled ascii codes used represent european languages languages hybrid system called unicode used
+example website paypal could coded using mixture latin alphabet russian alphabet
+resulting domain displayed users would look identical real site russian look like english
+computer code would different site would lead users could fake
+theory
+fake paypalcom already registered net domain giant verisign someone followed debate around internationalised domain idn system said mr dyer
+idea prove point rather malicious fake domain handed back paypal sets worrying precedent mr dyer said
+although idn problem well known technical circles commercial world totally unaware easily websites faked said mr dyer
+important alert users new invisible almost undetectable way diverting looks like perfectly genuine site added
+solutions
+instance browsers could spot domains use mixed characters display different colours warning users
+mr dyer acknowledged would huge undertaking update worlds browsers
+another solution introduce idndisabled browsers could case throwing baby bath water said
+centr council european national top level domain registries agrees
+rush introduce idndisabled browsers marketplace overlyzealous step harm public confidence idns technology desperately needed nonenglish speaking world organisation said statement
+

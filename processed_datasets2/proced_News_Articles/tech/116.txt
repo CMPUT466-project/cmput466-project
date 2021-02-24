@@ -1,0 +1,16 @@
+security firms warning several mobile phone viruses spread much faster similar bugs
+new strains cabir mobile phone virus use shortrange radio technology leap vulnerable phone soon range
+cabir virus affects highend handsets running symbian series 60 phone operating system
+despite warnings far reports phones infected new variants cabir
+original cabir worm came light midjune 2004 sent antivirus firms proofofconcept program
+mistake way original cabir written meant even escaped laboratory bug would able infect phone time
+however new cabir strains mistake corrected spread via short range bluetooth technology vulnerable phone range
+bluetooth effective range tens metres
+risk infected cabir low users must give malicious program permission download handset must manually install
+users protect altering setting symbian phones conceals handset bluetooth using devices
+finnish security firm fsecure issued warning new strains cabir said viruses damage phone
+block normal bluetooth activity drain phones battery
+antivirus firm sophos said source code cabir posted net brazilian programmer might lead even variants program created
+far seven versions cabir know exist inside malicious skulls program found late november
+symbians series 60 software licenced nokia lg electronics lenovo panasonic samsung sendo siemens
+
