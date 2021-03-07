@@ -5,7 +5,7 @@ import sys
 sep = os.path.sep
 current = os.getcwd()
 categories = ["business", "entertainment", "politics", "sport","tech"]
-generate_stop = True
+generate_stop = False
 sentense_length = 7
 nums = [str(i) for i in range(10)]
 if generate_stop:
@@ -83,10 +83,16 @@ if generate_stop:
                     
                 line_length = len(words)
                 
+
+
                 if line_length >= sentense_length:
                     # update word_set
                     word_set.update(words)
-
+                    training_string = words[0:sentense_length-1]
+                    label = words[sentense_length-1]
+                    testSetX.append(training_string)
+                    testSetY.append(label)
+                    '''
                     # means we can create test and training set based on this substring
                     for i in range(line_length-sentense_length):
                         # string[i,i+sentense_length] is each substring, choose the last word
@@ -94,13 +100,13 @@ if generate_stop:
                         training_string = words[i:i+sentense_length-1]
                         label = words[i+sentense_length-1]
                         testSetX.append(training_string)
-                        testSetY.append(label)
+                        testSetY.append(label)'''
 
 
 
         # now write to file
         try:
-            path = current+sep+"with_stop_word_usable_data"+sep+category
+            path = current+sep+"with_stop_word_usable_data"+sep+category+"2"
             os.mkdir(path)
         except OSError:
             print ("Creation of the directory %s failed" % path)
@@ -116,7 +122,7 @@ if generate_stop:
                     else:
                         file_obj.write('\n')
 
-        with open(path+sep+"testX.txt",'w') as file_obj:
+        with open(path+sep+"testX2.txt",'w') as file_obj:
             for eachTestSubString in testSetX:
                 for index in range(len(eachTestSubString)):
                     file_obj.write(eachTestSubString[index])
@@ -214,7 +220,14 @@ else:
                             words.append(each_word)
                     
                 line_length = len(words)
-                
+                if line_length >= sentense_length:
+                    # update word_set
+                    word_set.update(words)
+                    training_string = words[0:sentense_length-1]
+                    label = words[sentense_length-1]
+                    testSetX.append(training_string)
+                    testSetY.append(label)
+                '''
                 if line_length >= sentense_length:
                     # update word_set
                     word_set.update(words)
@@ -226,13 +239,13 @@ else:
                         training_string = words[i:i+sentense_length-1]
                         label = words[i+sentense_length-1]
                         testSetX.append(training_string)
-                        testSetY.append(label)
+                        testSetY.append(label)'''
 
 
 
         # now write to file
         try:
-            path = current+sep+"without_stop_word_usable_data"+sep+category
+            path = current+sep+"without_stop_word_usable_data"+sep+category+"2"
             os.mkdir(path)
         except OSError:
             print ("Creation of the directory %s failed" % path)
