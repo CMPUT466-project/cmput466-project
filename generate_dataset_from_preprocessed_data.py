@@ -5,9 +5,19 @@ import sys
 sep = os.path.sep
 current = os.getcwd()
 categories = ["business", "entertainment", "politics", "sport","tech"]
-generate_stop = False
+generate_stop = True
 sentense_length = 7
 nums = [str(i) for i in range(10)]
+
+trainXName = "trainingX.txt"
+trainYName = "trainingY.txt"
+testXName = "testX.txt"
+testYName = "testY.txt"
+word_set_name = "word_set.txt"
+
+
+
+
 if generate_stop:
     path_with_stopwords = "/processed_datasets/proced_News_Articles"
     for category in categories:
@@ -113,7 +123,7 @@ if generate_stop:
         else:
             print ("Successfully created the directory %s " % path)
 
-        with open(path+sep+"trainingX.txt",'w') as file_obj:
+        with open(path+sep+trainXName,'w') as file_obj:
             for eachTestSubString in trainingSetX:
                 for index in range(len(eachTestSubString)):
                     file_obj.write(eachTestSubString[index])
@@ -122,7 +132,7 @@ if generate_stop:
                     else:
                         file_obj.write('\n')
 
-        with open(path+sep+"testX2.txt",'w') as file_obj:
+        with open(path+sep+testXName,'w') as file_obj:
             for eachTestSubString in testSetX:
                 for index in range(len(eachTestSubString)):
                     file_obj.write(eachTestSubString[index])
@@ -131,17 +141,17 @@ if generate_stop:
                     else:
                         file_obj.write('\n')
 
-        with open(path+sep+"trainingY.txt",'w') as file_obj:
+        with open(path+sep+trainYName,'w') as file_obj:
             for eachLabel in trainingSetY:
                 file_obj.write(eachLabel)
                 file_obj.write('\n')
         
-        with open(path+sep+"testY.txt",'w') as file_obj:
+        with open(path+sep+testYName,'w') as file_obj:
             for eachLabel in testSetY:
                 file_obj.write(eachLabel)
                 file_obj.write('\n')    
 
-        with open(path+sep+"word_set",'w') as file_obj:
+        with open(path+sep+word_set_name,'w') as file_obj:
             for eachword in word_set:
                 file_obj.write(eachword)
                 file_obj.write('\n')                      
@@ -252,7 +262,7 @@ else:
         else:
             print ("Successfully created the directory %s " % path)
 
-        with open(path+sep+"trainingX.txt",'w') as file_obj:
+        with open(path+sep+trainXName,'w') as file_obj:
             for eachTestSubString in trainingSetX:
                 for index in range(len(eachTestSubString)):
                     file_obj.write(eachTestSubString[index])
@@ -261,7 +271,7 @@ else:
                     else:
                         file_obj.write('\n')
 
-        with open(path+sep+"testX.txt",'w') as file_obj:
+        with open(path+sep+testXName,'w') as file_obj:
             for eachTestSubString in testSetX:
                 for index in range(len(eachTestSubString)):
                     file_obj.write(eachTestSubString[index])
@@ -270,17 +280,17 @@ else:
                     else:
                         file_obj.write('\n')
 
-        with open(path+sep+"trainingY.txt",'w') as file_obj:
+        with open(path+sep+trainYName,'w') as file_obj:
             for eachLabel in trainingSetY:
                 file_obj.write(eachLabel)
                 file_obj.write('\n')
         
-        with open(path+sep+"testY.txt",'w') as file_obj:
+        with open(path+sep+testYName,'w') as file_obj:
             for eachLabel in testSetY:
                 file_obj.write(eachLabel)
                 file_obj.write('\n')   
 
-        with open(path+sep+"word_set",'w') as file_obj:
+        with open(path+sep+word_set_name,'w') as file_obj:
             for eachword in word_set:
                 file_obj.write(eachword)
                 file_obj.write('\n')  
