@@ -4,7 +4,9 @@
 
 
 Pay attention:
-Two folders contain separated training data and test dat are with_stop_word_usable_data and without_stop_word_usable_data.<br>
+Two folders contain separated training data and test data are with_stop_word_usable_data and without_stop_word_usable_data.<br>
+
+They are generated through a python file called generate_dataset_from_preprocessed_data.py, you may also want to change the parameters inside to generate different dataset.<br>
 
 In each folder, you can see 10 folders, each categories got two folders, <category2> and <category>.<br>
   
