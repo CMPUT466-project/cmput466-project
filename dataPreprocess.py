@@ -37,7 +37,7 @@ def preprocess_all():
 						temp = sentence.rstrip()
 						if temp[-1:] == '.': temp += ' '
 						content += temp
-					# want to make a line for each sentence
+					# want to make a line for each sentenc
 					temp_lines = content.split('. ')
 					for j in range(len(temp_lines)):
 						# remove all punctuations and make lowercase
