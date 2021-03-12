@@ -1,3 +1,12 @@
+# any datasets
+n-gram-text-generator/
+GPT-2/
+processed_datasets/
+processed_datasets2/
+processed_to_one/
+training_checkpoints/
+without_stop_word_usable_data/
+with_stop_word_usable_data/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
