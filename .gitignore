@@ -1,6 +1,5 @@
 # any extra datasets (modified by Shway Wang)
 n-gram-text-generator/
-GPT-2/
 processed_datasets/
 processed_datasets2/
 processed_to_one/
